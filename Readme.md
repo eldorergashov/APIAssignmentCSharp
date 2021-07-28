@@ -12,7 +12,7 @@
 ### 2 - ResponseData
 - ResponseData class contains attributes for ResponseMetaData object
 
-*** Running the tests using the command line
+### Running the tests using the command line
 - In order to run the tests through the command line you need to:
 1 - Navigate to the folder where the project is located
 2 - run the 'dotnet test' command
